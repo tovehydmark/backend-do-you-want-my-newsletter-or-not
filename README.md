@@ -1,13 +1,20 @@
-//// Do you want my newsletter? ////
+---Do you want my newsletter?---
+
 This is a school assignment where the user can create a user account, decide whether or not they want to subscribe to a news letter and then change subscription status when logged in.
+
 
 It is a headless backend application created with express generator. The server is deployed at Heroku and the database used is Atlas MongoDB.
 
-//// Run application locally ////
--npm install (installs the dependencies listed in package.json)
--node app.js
+---Run application locally---
 
-//// Admin /////
+npm install (installs the dependencies listed in package.json)
+
+node app.js
+
+
+
+---Admin---
+
 To reach the monolithic application showing the admin page, visit:
 https://backendforlogintaskone.herokuapp.com/admin
 
